@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "594222669291",
+    "firebase_url": "https://fluttersocmed.firebaseio.com",
+    "project_id": "fluttersocmed",
+    "storage_bucket": "fluttersocmed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594222669291:android:22b2f0ecc51b1615ff8dae",
+        "android_client_info": {
+          "package_name": "com.excooldev.flutsocmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594222669291-ph4s1rldf6297suej3fn7jf3s4ptic66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.excooldev.flutsocmed",
+            "certificate_hash": "18194992f23b4bb4d71bf3728e61d8ac19cbd3b0"
+          }
+        },
+        {
+          "client_id": "594222669291-82984m80vc1ck4p93mt9975uupj4esfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGX5p7HWeB5X0ymSgWlCwqqiI3HeKmGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594222669291-82984m80vc1ck4p93mt9975uupj4esfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
